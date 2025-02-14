@@ -15,7 +15,7 @@
 - 각 페이지의 title은 `[학번] 이름 | 카테고리` 형식을 지켜 작성한다. <br />
   ex) [202112345] 아무개 | About me
 - **시멘틱 태그**를 고려하여 작성한다.
-  - 시각 장애인분들이 우리의 문서를 본다는 것을 염두하여 작성한다.
+ - 시각 장애인분들이 우리의 문서를 본다는 것을 염두하여 작성한다.
 - `div`, `span`태그의 사용을 최대한 지양한다.
 - README.md 작성법은 [다음](https://commonmark.org/help/)을 참고한다.
 - 시멘틱 태그의 구조와 예시는 [MDN](https://developer.mozilla.org/ko/docs/Glossary/Semantics), [W3C](https://www.w3schools.com/html/html5_semantic_elements.asp)의 공식 문서를 참고한다.
